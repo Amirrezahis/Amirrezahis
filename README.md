@@ -1,49 +1,54 @@
 # Hi, I'm Amirreza 👋
 
-## Researcher in Control Systems & Intelligent Engineering
+![MATLAB](https://img.shields.io/badge/MATLAB-Engineering-orange)
+![Control Systems](https://img.shields.io/badge/Control-Systems-blue)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-green)
+![Digital Twin](https://img.shields.io/badge/Digital-Twin-purple)
 
-I work on:
+---
 
-* Intelligent Digital Twin Systems
-* Multi-Sensor Data Fusion
-* Artificial Intelligence
-* Fault Detection and Predictive Maintenance
-* MATLAB Simulation and Control Applications
-
-## Featured Project
+## 🚀 Featured Research Project
 
 ### Intelligent Digital Twin Framework for Predictive Maintenance
 
-A MATLAB-based framework integrating:
+A MATLAB-based intelligent framework combining:
 
-* Sensor Fusion
-* AI Prediction Models
-* Fault Diagnosis
+* Multi-Sensor Fusion
+* Artificial Intelligence
+* Fault Detection
 * Robustness Analysis
 * Optimization Algorithms
 
-Repository:
+Project Repository:
 
-Digital_Twin_DC_Motor_AI
+Digital Twin DC Motor AI
 
-## Technical Skills
+---
 
-* MATLAB
+## 🛠 Technical Skills
+
+* MATLAB / Simulink
 * Control Systems
-* Signal Processing
+* Sensor Fusion
 * Machine Learning
 * Deep Learning
-* Digital Twin
-* Data Fusion
-* Optimization
+* Digital Twin Technology
+* Signal Processing
+* Optimization Methods
 
-## Research Interests
+## 📊 Research Interests
 
-* Smart Manufacturing
+* Intelligent Control Systems
 * Industrial AI
-* Intelligent Control
+* Predictive Maintenance
 * Cyber-Physical Systems
+* Smart Manufacturing
 
-## Contact
+## 📌 Current Work
 
-Open to research collaboration and engineering projects.
+Developing MATLAB-based intelligent engineering frameworks for:
+
+* Digital Twin modeling
+* Fault diagnosis
+* AI-assisted prediction
+* Multi-sensor data fusion
