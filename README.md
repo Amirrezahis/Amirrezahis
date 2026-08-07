@@ -23,7 +23,14 @@ Project Repository:
 
 Digital Twin DC Motor AI
 
----
+## Featured Project
+
+🔹 [Intelligent Digital Twin Framework](https://github.com/Amirrezahis/Digital_Twin_DC_Motor_AI)
+
+MATLAB implementation of an AI-based Digital Twin framework for:
+- Sensor Fusion
+- Fault Detection
+- Predictive Maintenance
 
 ## 🛠 Technical Skills
 
