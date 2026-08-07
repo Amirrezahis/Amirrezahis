@@ -1,4 +1,4 @@
-# Hi, I'm Sajad Baavoshi 👋
+# Hi, I'm Sajjad Bahoushi 👋
 
 PhD Student in Control Engineering
 
